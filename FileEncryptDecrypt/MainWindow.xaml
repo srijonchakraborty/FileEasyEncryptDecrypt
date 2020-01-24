@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="File Encrypt Decrypt" Height="166" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid Background="#FFBFBFBF">
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="89,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="317"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="89,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="317"/>
         <Label x:Name="label" Content="Input Path:" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top" Width="79" Height="26"/>
-        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="89,47,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="317"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="89,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="317"/>
         <Label x:Name="label_Copy" Content="Output Path:" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Width="79" Height="26"/>
         <Button x:Name="button" Content="Pick" HorizontalAlignment="Left" Margin="406,10,0,0" VerticalAlignment="Top" Width="52" Height="23"/>
         <Button x:Name="button_Copy" Content="Clear" HorizontalAlignment="Left" Margin="458,10,0,0" VerticalAlignment="Top" Width="49" Height="23"/>
