@@ -7,16 +7,17 @@
         mc:Ignorable="d"
         Title="File Encrypt Decrypt" Height="166" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid Background="#FFBFBFBF">
-        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="89,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="322"/>
+        <TextBox x:Name="textBox" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="89,10,0,0"  VerticalAlignment="Top" Width="322"/>
         <Label x:Name="label" Content="Input Path:" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top" Width="79" Height="26"/>
-        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="89,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="322"/>
+        <TextBox x:Name="textBoxSave" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="89,47,0,0" VerticalAlignment="Top" Width="322"/>
         <Label x:Name="label_Copy" Content="Output Path:" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Width="79" Height="26"/>
-        <Button x:Name="button" Content="Pick" HorizontalAlignment="Left" Margin="411,10,0,0" VerticalAlignment="Top" Width="47" Height="23"/>
-        <Button x:Name="button_Copy" Content="Clear" HorizontalAlignment="Left" Margin="458,10,0,0" VerticalAlignment="Top" Width="49" Height="23"/>
-        <Button x:Name="button_Copy1" Content="Pick" HorizontalAlignment="Left" Margin="411,47,0,0" VerticalAlignment="Top" Width="47" Height="23"/>
-        <Button x:Name="button_Copy2" Content="Clear" HorizontalAlignment="Left" Margin="458,47,0,0" VerticalAlignment="Top" Width="49" Height="23"/>
+        <Button x:Name="button" Content="Pick" HorizontalAlignment="Left" Margin="411,10,0,0" VerticalAlignment="Top" Width="47" Height="23" Click="button_Click"/>
+        <Button x:Name="button_Copy" Content="Clear" HorizontalAlignment="Left" Margin="458,10,0,0" VerticalAlignment="Top" Width="49" Height="23" Click="button_Copy_Click"/>
+        <Button x:Name="button_Copy1" Content="Pick" HorizontalAlignment="Left" Margin="411,47,0,0" VerticalAlignment="Top" Width="47" Height="23" Click="button_Copy1_Click"/>
+        <Button x:Name="button_Copy2" Content="Clear" HorizontalAlignment="Left" Margin="458,47,0,0" VerticalAlignment="Top" Width="49" Height="23" Click="button_Copy2_Click"/>
         <ProgressBar HorizontalAlignment="Left" Height="10" Margin="14,113,0,0" VerticalAlignment="Top" Width="490"/>
-        <Button x:Name="button1_Copy" Content="Start" HorizontalAlignment="Left" Margin="406,84,0,0" VerticalAlignment="Top" Width="101"/>
+        <Button x:Name="button1_Copy" Content="Encrypt" HorizontalAlignment="Left" Margin="406,84,0,0" VerticalAlignment="Top" Width="101" Click="button1_Copy_Click"/>
+        <Button x:Name="button1Decrypt" Content="Decrypt" HorizontalAlignment="Left" Margin="300,84,0,0" VerticalAlignment="Top" Width="101" Click="button1Decrypt_Click" />
         <Button x:Name="button1_Copy1" Content="Cancel" HorizontalAlignment="Left" Margin="89,84,0,0" VerticalAlignment="Top" Width="101"/>
 
     </Grid>

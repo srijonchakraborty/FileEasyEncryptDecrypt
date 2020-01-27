@@ -12,3 +12,17 @@ F:\FileEasyEncryptDecrypt\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.Proper
 F:\FileEasyEncryptDecrypt\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.csproj.GenerateResource.Cache
 F:\FileEasyEncryptDecrypt\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.exe
 F:\FileEasyEncryptDecrypt\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.pdb
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\MainWindow.g.cs
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\App.g.cs
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt_MarkupCompile.cache
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt_MarkupCompile.lref
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.exe
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.pdb
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\bin\Debug\FileEncryptDecrypt.exe.config
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\bin\Debug\FileEncryptDecrypt.exe
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\bin\Debug\FileEncryptDecrypt.pdb
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\MainWindow.baml
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.g.resources
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.Properties.Resources.resources
+C:\Users\srijon\Desktop\FileEasyEncryptDecrypt-master\FileEasyEncryptDecrypt-master\FileEncryptDecrypt\obj\Debug\FileEncryptDecrypt.csproj.GenerateResource.cache
