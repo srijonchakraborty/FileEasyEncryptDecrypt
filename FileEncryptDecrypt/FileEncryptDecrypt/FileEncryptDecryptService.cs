@@ -29,7 +29,7 @@ namespace FileEncryptDecrypt
         public static event Action<Exception> ActionEncryptException;
         public static event Action<bool> ActionDecryptDone;
         public static event Action<Exception> ActionDecryptException;
-        public async static Task FileEncrypt(string pathInput,string outPutPath)
+        public async static Task FileEncryptAsync(string pathInput,string outPutPath)
         {
             Stream stream = null;
             try
@@ -51,7 +51,7 @@ namespace FileEncryptDecrypt
                 throw new Exception(ex.Message);
             }
         }
-        public async static Task FileDecrypt(string pathInput, string outPutPath)
+        public async static Task FileDecryptAsync(string pathInput, string outPutPath)
         {
             Stream stream = null;
             FileStream fileStream = null;

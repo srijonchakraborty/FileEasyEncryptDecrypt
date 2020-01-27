@@ -122,7 +122,7 @@ namespace FileEncryptDecrypt
                 {
                     File.Delete(@"" + textBoxSave.Text);
                 }
-                await FileEncryptDecryptService.FileEncrypt(textBox.Text, textBoxSave.Text);
+                await FileEncryptDecryptService.FileEncryptAsync(textBox.Text, textBoxSave.Text);
             }
             catch (Exception ex)
             {
@@ -149,7 +149,7 @@ namespace FileEncryptDecrypt
                 {
                     File.Delete(@"" + textBoxSave.Text);
                 }
-                await FileEncryptDecryptService.FileDecrypt(textBox.Text, textBoxSave.Text);
+                await FileEncryptDecryptService.FileDecryptAsync(textBox.Text, textBoxSave.Text);
             }
             catch (Exception ex)
             {
